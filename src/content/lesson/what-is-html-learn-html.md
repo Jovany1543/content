@@ -98,7 +98,7 @@ All pages must begin with the `<DOCTYPE! Html>` statement followed by `<html>`, 
 </html>
 ```
 
-Lets simulate how a browser thinks: Imagine a user on his browser (client-side) who types the URL: breatheco.de
+Let's simulate how a browser thinks: Imagine a user on his browser (client-side) who types the URL: breatheco.de
 
 + The server will open the default HTML file on that server, which will probably be: index.html.
 + Then, it will read its content and interpret it as HTML (because the extension of the file is index.html).
@@ -130,11 +130,11 @@ In the case of HTML, the `<head>` can contain the following tags (among other le
 
 # The \<body\> is Similar to any MS Word Document
 
-Ok, now that we are familiar with the general and necessary structure of the page, lets review the tags we can and must use to define the content of the page.
+Ok, now that we are familiar with the general and necessary structure of the page, let's review the tags we can and must use to define the content of the page.
 
 Remember – for the fifteenth time – that a web page is… a text document!  That’s right, if you knew the answer before you read it you are getting it! And, if not, don’t worry.  We’ve never known of anyone learning HTML and CSS rather quickly ;).
 
-Lets see how a website compares to a Word document:
+Let's see how a website compares to a Word document:
 
 <before-after width="500px" before="../../assets/images/f2021d8d-193d-4482-b189-ae0005b1bd88.png" after="../../assets/images/8e339149-97ae-4b15-ba59-a3ddf3777525.png" /></before-after>
 
